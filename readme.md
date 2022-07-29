@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-8**
+# **Project-8** [Live Link](https://ineuronproject-8.netlify.app/)
 >- Skills gained in this project
  >- I learned about how to use poisition in css [Relative and absolute]
  >- learned about how to apply background image and change the color of navbar
