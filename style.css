@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poopins", "Helvetica";
+}
+body{
+    background: url("./assets/bg.png") no-repeat center center fixed;
+}
+.logo{
+    width: 7%;
+    position: relative;
+    left: 60px;
+    top: 25px;
+}
+ .line{
+    display: flex;
+    width: 1px;
+    height: 30px;
+    background: #ffffff;
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+ }
+.list{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    position: relative;
+    left: 300px;
+    bottom: 35px;
+}
+.list-item{
+    margin: 0px 20px;
+}
+.navbar{
+    background-color: #000;
+    color: #ffffff;
+}
+.button-small{
+    position: relative;
+    left: 1100px;
+    bottom: 50px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #BA0CC5;
+    color:#E0DBE6;
+}
+.hero-heading{
+    font-size: 60px;
+    position: relative;
+    top: 110px;
+    width: 50%;
+    left: 380px;
+    color: #E0DBE6;
+}
+.hero-description{
+    position: relative;
+    top: 120px;
+    left: 420px;
+    color: #E0DBE6;
+    font-size: 20px;
+}
+.button-large{
+    position: relative;
+    top: 150px;
+    left: 500px;
+    font-size: 19px;
+    font-family: "roboto", "sans-serif";
+    padding: 10px 40px;
+    border: none;
+    border-radius: 7px;
+    background-color: #BA0CC5;
+    color: #E0DBE6;
+}
